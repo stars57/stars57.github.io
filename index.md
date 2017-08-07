@@ -31,24 +31,23 @@
 * Golonka, E., Tare, M., & Bonilla, C. (2017). Peer interaction in text chat: Qualitative analysis of chat transcripts. _Language Learning and Technology_, 21(2), 157–178.
 * Tare, M., Golonka, E., Vatz, K., Bonilla, C., Crooks, C. & Strong, R. (2014). Effects of
 interactive chat versus independent writing on L2 learning. _Language Learning & Technology_, 18(3), 208-227.
-
-> * Linck, J.A., Hughes, M., Campbell, S., Silbert, N., Tare, M., Jackson, S., Smith, B., Bunting, M., &
+* Linck, J.A., Hughes, M., Campbell, S., Silbert, N., Tare, M., Jackson, S., Smith, B., Bunting, M., &
 Doughty, C., (2013).  Hi-LAB: A new measure of aptitude for high-level language proficiency.  _Language Learning_, 63, 530-566.
-> * Tare, M. & Gelman, S.A. (2011). Bilingual parents’ modeling of pragmatic language use in multiparty
+* Tare, M. & Gelman, S.A. (2011). Bilingual parents’ modeling of pragmatic language use in multiparty
             interactions. _Applied Psycholinguistics_, 32, 761-780.
-> Tare, M., French, J.A., Frazier, B.N., Diamond, J., & Evans, E.M. (2011). Explanatory parent-child
+* Tare, M., French, J.A., Frazier, B.N., Diamond, J., & Evans, E.M. (2011). Explanatory parent-child
             conversation predominates at an evolution exhibit. _Science Education_, 95, 720-744.
-> Tare, M. & Gelman, S.A. (2010). Can you say it another way? Cognitive factors in bilingual children’s
+* Tare, M. & Gelman, S.A. (2010). Can you say it another way? Cognitive factors in bilingual children’s
             pragmatic language skills. _Journal of Cognition and Development_, 11, 137-158.
-> Tare, M. & Gelman, S.A. (2010). Determining that a label is kind-referring: Factors that influence
+* Tare, M. & Gelman, S.A. (2010). Determining that a label is kind-referring: Factors that influence
             children’s and adults’ novel word extensions. _Journal of Child Language_, 37, 1007-1026.
-> Tare, M., Chiong, C., Ganea, P. & DeLoache, J. (2010). Less is more: The effect of manipulative features
+* Tare, M., Chiong, C., Ganea, P. & DeLoache, J. (2010). Less is more: The effect of manipulative features
 on children’s learning from picture books. _Journal of Applied Developmental Psychology_, 31, 395-400.
-> Shatz, M., Tare, M., Nguyen, S., & Young, T. (2010). Acquiring non-object terms: The case for time
+* Shatz, M., Tare, M., Nguyen, S., & Young, T. (2010). Acquiring non-object terms: The case for time
             words. _Journal of Cognition and Development_, 11, 16-36.
-> Tare, M., Shatz, M., & Gilbertson, L. (2008). Maternal uses of non-object terms in child-directed speech:
+* Tare, M., Shatz, M., & Gilbertson, L. (2008). Maternal uses of non-object terms in child-directed speech:
             Color, number, and time. _First Language_, 28, 87-100.
-> Tare, M. (2006). Assessing the foreign language needs of the Department of Homeland Security. _Journal
+* Tare, M. (2006). Assessing the foreign language needs of the Department of Homeland Security. _Journal
             of Homeland Security and Emergency Management_, 3, Article 5.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
