@@ -17,7 +17,7 @@
 
 <!-- &nbsp; -->
 
-![](https://jpnwalters.github.io/images/headshot.jpg){: .image-left target="_blank"} I'm a computer scientist and lead a team of researchers.  Our interests largely target heterogeneous computing, and span traditional high performance computing and high performance embedded computing.
+![](http://medhatare.com/images/medha_headshot.jpg){: .image-left target="_blank"} I'm a computer scientist and lead a team of researchers.  Our interests largely target heterogeneous computing, and span traditional high performance computing and high performance embedded computing.
 
 <!-- &nbsp; -->
 
@@ -30,7 +30,7 @@
 
 * Tare, M., Golonka, E., Lancaster, A.K., Bonilla, C., Doughty, C.J., Belnap, K., & Jackson, S.R. (under
 review). _The role of cognitive aptitude in a study abroad language learning environment_.
-* Tare, M., Golonka, E. & Clark, M. (2017). Virtual reality for language learning. ([online](https://www.afcea.org/content/?q=Article-go-moscow-learn-russian-sort){:target="_blank"})
+* Tare, M., Golonka, E. & Clark, M. (2017). Virtual reality for language learning. _Signal Magazine_, 71(10), 39-41. ([online](https://www.afcea.org/content/?q=Article-go-moscow-learn-russian-sort){:target="_blank"})
 * Golonka, E., Tare, M., & Bonilla, C. (2017). Peer interaction in text chat: Qualitative analysis of chat transcripts. _Language Learning and Technology_, 21(2), 157–178. ([pdf](http://medhatare.com/papers/golonkatarebonilla.pdf){:target="_blank"})
 * Tare, M., Golonka, E., Vatz, K., Bonilla, C., Crooks, C. & Strong, R. (2014). Effects of
 interactive chat versus independent writing on L2 learning. _Language Learning & Technology_, 18(3), 208-227. ([pdf](http://medhatare.com/papers/tare_llt_2014.pdf){:target="_blank"})
