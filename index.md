@@ -26,14 +26,14 @@
 
 ## [](#header-2) Publications
 
-> Golonka, E., Tare, M., & Bonilla, C. (2017). Peer interaction in text chat: Qualitative analysis of chat transcripts. _Language Learning and Technology_, 21(2), 157–178.
+* Golonka, E., Tare, M., & Bonilla, C. (2017). Peer interaction in text chat: Qualitative analysis of chat transcripts. _Language Learning and Technology_, 21(2), 157–178.
 
-> Tare, M., Golonka, E., Vatz, K., Bonilla, C., Crooks, C. & Strong, R. (2014). Effects of
+* Tare, M., Golonka, E., Vatz, K., Bonilla, C., Crooks, C. & Strong, R. (2014). Effects of
 interactive chat versus independent writing on L2 learning. _Language Learning & Technology_, 18(3), 208-227.
 
-> Linck, J.A., Hughes, M., Campbell, S., Silbert, N., Tare, M., Jackson, S., Smith, B., Bunting, M., &
+> * Linck, J.A., Hughes, M., Campbell, S., Silbert, N., Tare, M., Jackson, S., Smith, B., Bunting, M., &
 Doughty, C., (2013).  Hi-LAB: A new measure of aptitude for high-level language proficiency.  _Language Learning_, 63, 530-566.
-> Tare, M. & Gelman, S.A. (2011). Bilingual parents’ modeling of pragmatic language use in multiparty
+> * Tare, M. & Gelman, S.A. (2011). Bilingual parents’ modeling of pragmatic language use in multiparty
             interactions. _Applied Psycholinguistics_, 32, 761-780.
 > Tare, M., French, J.A., Frazier, B.N., Diamond, J., & Evans, E.M. (2011). Explanatory parent-child
             conversation predominates at an evolution exhibit. _Science Education_, 95, 720-744.
