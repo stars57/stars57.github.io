@@ -66,7 +66,7 @@ on children’s learning from picture books. _Journal of Applied Developmental P
             words. _Journal of Cognition and Development_, 11, 16-36. ([pdf](http://medhatare.com/papers/shatz_tare_nguyen_young_2010.pdf){:target="_blank"})
 * Tare, M., Shatz, M., & Gilbertson, L. (2008). Maternal uses of non-object terms in child-directed speech:
             Color, number, and time. _First Language_, 28, 87-100. ([pdf](http://medhatare.com/papers/tare_shatz_gilbertson_2008.pdf){:target="_blank"})
-
+```
 
 
 
