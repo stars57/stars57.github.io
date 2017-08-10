@@ -25,7 +25,7 @@ As part of leading these programs, I have also gained the soft skills needed to 
 <!-- &nbsp; -->
 
 ## [](#header-2) Research
-My research interests span several major areas. Broadly, my work in the *learning sciences* has examining individual differences (e.g., cognitive, biographical) that influence learners’ success in a variety of training environments (e.g., classrooms, self-study, immersion). I have also studied the role and effect of educational technology interventions on learning outcomes and worked with instructors on professional development and adoption of new training techniques. I also have expertise in children’s *cognitive and language development*, examining children’s acquisition of language, social, and conceptual knowledge through interactions with parents or in informal contexts such as museums.
+My research interests span several major areas. Broadly, my work in the **learning sciences** has examining individual differences (e.g., cognitive, biographical) that influence learners’ success in a variety of training environments (e.g., classrooms, self-study, immersion). I have also studied the role and effect of educational technology interventions on learning outcomes and worked with instructors on professional development and adoption of new training techniques. I also have expertise in children’s **cognitive and language development**, examining children’s acquisition of language, social, and conceptual knowledge through interactions with parents or in informal contexts such as museums.
 
 
 ### [](#header-3) Technology and Learning
