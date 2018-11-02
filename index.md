@@ -31,7 +31,7 @@ As a result of leading these multimillion dollar programs, I have a wide range o
 My research interests span several major areas. Broadly, my work in the *learning sciences* examines individual differences (e.g., cognitive, biographical) that influence learners’ success in a variety of training environments (e.g., classrooms, online, immersion). I have studied the effects of *educational technology* interventions on learning outcomes and worked with educators on professional development and adoption of new training techniques. I also have expertise in children’s *cognitive and language development*, examining children’s acquisition of language, social, and conceptual knowledge through interactions with parents or in informal contexts such as museums.
 
 ### [](#header-3) Technology and Learning
-* Tare, M., Nobles, S., & Xiao, W. (2018, March 14). Partnerships that work: Tapping research to address learner variability in young readers. Digital Promise Global. ([online](https://digitalpromise.org/2018/03/14/partnerships-work-tapping-research-address-learner-variability-young-readers/){:target="_blank"})
+* Tare, M., Nobles, S., & Xiao, W. (2018, March 14). _Partnerships that work: Tapping research to address learner variability in young readers_. Digital Promise Global. ([online](https://digitalpromise.org/2018/03/14/partnerships-work-tapping-research-address-learner-variability-young-readers/){:target="_blank"})
 * Tare, M., Golonka, E. & Clark, M. (2017). Virtual reality for language learning. _Signal Magazine_, 71(10), 39-41. ([online](https://www.afcea.org/content/?q=Article-go-moscow-learn-russian-sort){:target="_blank"})
 * Golonka, E., Tare, M., & Bonilla, C. (2017). Peer interaction in text chat: Qualitative analysis of chat transcripts. _Language Learning and Technology_, 21(2), 157–178. ([pdf](http://medhatare.com/papers/golonkatarebonilla.pdf){:target="_blank"})
 * Tare, M., Golonka, E., Vatz, K., Bonilla, C., Crooks, C. & Strong, R. (2014). Effects of
@@ -47,7 +47,7 @@ Doughty, C., (2013).  Hi-LAB: A new measure of aptitude for high-level language 
             of Homeland Security and Emergency Management_, 3, Article 5. ([pdf](http://medhatare.com/papers/tare_jhsem_2006.pdf){:target="_blank"})
 
 ### [](#header-3) Children's Informal Learning
-* Tare, M. (2018, October 18). Encouraging out-of-school reading and writing habits. Digital Promise Global. ([online](https://digitalpromise.org/2018/10/18/encouraging-school-reading-writing-habits/){:target="_blank"})
+* Tare, M. (2018, October 18). _Encouraging out-of-school reading and writing habits_. Digital Promise Global. ([online](https://digitalpromise.org/2018/10/18/encouraging-school-reading-writing-habits/){:target="_blank"})
 * Tare, M., French, J.A., Frazier, B.N., Diamond, J., & Evans, E.M. (2011). Explanatory parent-child
             conversation predominates at an evolution exhibit. _Science Education_, 95, 720-744. ([pdf](http://medhatare.com/papers/tare_scied_2011.pdf){:target="_blank"})
 * Tare, M., Chiong, C., Ganea, P. & DeLoache, J. (2010). Less is more: The effect of manipulative features
