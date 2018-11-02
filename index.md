@@ -21,6 +21,10 @@
 
 I was previously an Associate Research Scientist at the University of Maryland Center for Advanced Study of Language where I led interdisciplinary efforts that resulted in key enhancements to educational curricula at large government institutions. For example, one line of research explored [**virtual reality and its application to language comprehension**](https://www.afcea.org/content/?q=Article-go-moscow-learn-russian-sort){:target="_blank"}. 
 
+As a result of leading these multimillion dollar programs, I have a wide range of research and management skills including: relationship building with stakeholders; report writing and presentation for academic, government, and general public audiences; experimental and instructional design and evaluation; qualitative and quantitative assessment and analysis; and project administration, including managing personnel, timelines, and contractual budgets.
+
+
+
 <!-- &nbsp; -->
 
 ## [](#header-2) Research
@@ -34,7 +38,7 @@ My research interests span several major areas. Broadly, my work in the *learnin
 interactive chat versus independent writing on L2 learning. _Language Learning & Technology_, 18(3), 208-227. ([pdf](http://medhatare.com/papers/tare_llt_2014.pdf){:target="_blank"})
 
 ### [](#header-3) Individual Differences in Language Learning
-* Tare, M., Golonka, E., Lancaster, A.K., Bonilla, C., Doughty, C.J., Belnap, R.K., & Jackson, S.R. (2018). The role of cognitive aptitudes in a study abroad language-learning environment.  In C. Sanz & A. Morales-Front (Eds.), The Routledge handbook of study abroad research and practice (pp. 406-420). New York, NY: Routledge. ([pdf](http://medhatare.com/papers/tare_et_al_study_abroad.pdf){:target="_blank"})
+* Tare, M., Golonka, E., Lancaster, A.K., Bonilla, C., Doughty, C.J., Belnap, R.K., & Jackson, S.R. (2018). The role of cognitive aptitudes in a study abroad language-learning environment.  In C. Sanz & A. Morales-Front (Eds.), *The Routledge handbook of study abroad research and practice* (pp. 406-420). New York, NY: Routledge. ([pdf](http://medhatare.com/papers/tare_et_al_study_abroad.pdf){:target="_blank"})
 * Vatz, K., Tare, M., Jackson, S., & Doughty, C. (2013).  Aptitude-treatment interaction studies
 in second language acquisition:  Findings and methodology.  In G. Granena & M. Long (Eds.). _Sensitive periods, language aptitude, and ultimate L2 attainment_ (pp.273-292). Amsterdam: John Benjamins Publishing Company.
 * Linck, J.A., Hughes, M., Campbell, S., Silbert, N., Tare, M., Jackson, S., Smith, B., Bunting, M., &
